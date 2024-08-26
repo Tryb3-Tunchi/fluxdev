@@ -8,6 +8,9 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+text{
+  color: #0d0d0d00;
+}
 
 .body {
   @apply border border-red-600 dark:bg-black   dark:text-white;
