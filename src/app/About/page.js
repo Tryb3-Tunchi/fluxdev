@@ -4,12 +4,12 @@ import Datas from "../data/data";
 
 const Tag = () => {
   return (
-    <div className="flex flex-wrap gap-4">
+    <div className="flex items-center justify-center text-center flex-wrap w-3/4 m-auto gap-4">
       {Datas.map((data) => (
-        <div className="flex" key={data.id}>
-          <img src={data.img} alt={data.id} />
+        <div className="" key={data.id}>
+          <img className="w-3/4 flex m-auto" src={data.img} alt={data.id} />
           {/* <p>{data.img}</p> */}
-          <li>{data.title}</li>
+          <p>{data.title}</p>
         </div>
       ))}
     </div>

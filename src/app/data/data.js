@@ -9,52 +9,52 @@ import Frame188 from "../img/Frame188.png";
 const Datas = [
   {
     id: 1,
-    img: '<img src="Frame182.png" alt="" />',
+    img: "./Frame182.png",
     title: "C.T.O",
   },
   {
     id: 2,
-    img: Frame183,
+    img: "./Frame182.png",
     title: "Chief Frontend Dev",
   },
   {
     id: 3,
-    img: Frame184,
+    img: "./Frame182.png",
     title: "Lead Designer",
   },
   {
     id: 4,
-    img: Frame185,
+    img: "./Frame182.png",
     title: "Chief Backend Dev",
   },
   {
     id: 5,
-    img: Frame188,
+    img: "./Frame182.png",
     title: "Frontend Dev",
   },
   {
     id: 1,
-    img: 'h2',
+    img: "./Frame182.png",
     title: "C.T.O",
   },
   {
     id: 2,
-    img: Frame183,
+    img: "./Frame182.png",
     title: "Chief Frontend Dev",
   },
   {
     id: 3,
-    img: Frame184,
+    img: "./Frame182.png",
     title: "Lead Designer",
   },
   {
     id: 4,
-    img: Frame185,
+    img: "./Frame182.png",
     title: "Chief Backend Dev",
   },
   {
     id: 5,
-    img: Frame188,
+    img: "./Frame182.png",
     title: "Frontend Dev",
   },
 ];

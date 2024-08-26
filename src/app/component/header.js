@@ -42,7 +42,7 @@ const Header = () => {
             🌙
           </button>
           <button className="bg-blue-500 px-2 py-1 rounded-md text-slate-100 mx-2 ml-6">
-            contact us
+            <Link href="./About">About us</Link>
           </button>
         </div>
       </div>
