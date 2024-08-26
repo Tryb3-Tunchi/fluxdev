@@ -40,7 +40,7 @@ const Features = () => {
         </div>
       </div>
       <div
-        className="flex justify-between
+        className="flex justify-between items-center
       "
       >
         <div className="flex-1  text-center rounded-md w-4/6 m-auto my-6  px-2">
