@@ -32,10 +32,10 @@ const Team = () => {
           alt="photo"
         />
       </div>
-      <div className="flex justify-center items-center py-6 hover:animate-pulse">
-        <div className="w-3 h-3 bg-black rounded-full"> </div>
-        <div className="w-3 h-3 bg-black rounded-full mx-2"> </div>
-        <div className="w-3 h-3 bg-black rounded-full"> </div>
+      <div className="flex justify-center items-center py-6 hover:animate-pulse hover:scale-110">
+        <div className="w-3 h-3 bg-bground rounded-full"> </div>
+        <div className="w-3 h-3 bg-bground rounded-full mx-2"> </div>
+        <div className="w-3 h-3 bg-bground rounded-full"> </div>
       </div>
     </div>
   );
